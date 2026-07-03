@@ -52,10 +52,29 @@ https://github.com/madhumithajs2006-lgtm/WiGuard-AI
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-(To be added in the next step)
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhumithajs2006-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumithajs2006-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=madhumithajs2006-lgtm&theme=tokyonight&hide_border=true"/>
+
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=madhumithajs2006-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
 ---
 
 ## 🌱 Currently Learning
@@ -84,5 +103,14 @@ https://github.com/madhumithajs2006-lgtm/WiGuard-AI
 </a>
 </p>
 ---
+## 📈 Contribution Graph
+
+[![Madhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhumithajs2006-lgtm&theme=github-compact)](https://github.com/madhumithajs2006-lgtm)
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=madhumithajs2006-lgtm&label=Profile%20Views&color=00ff9d&style=for-the-badge"/>
+
+</p>
 
 ⭐ Thanks for visiting my profile!
