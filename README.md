@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%">
+  <img src="./ChatGPT Image Jul 3, 2026, 02_04_40 PM.png" alt="GitHub Banner" width="100%">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Real-World+Software;Always+Learning+Something+New!" />
